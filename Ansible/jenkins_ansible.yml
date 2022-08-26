@@ -1,0 +1,3 @@
+- hosts: JenkinsMaster
+  roles:
+  - role: "deepak9829.ansible_jenkinsserver"
